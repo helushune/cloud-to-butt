@@ -1,9 +1,11 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt Plus",
-	"version": "1.2",
-	"description": "Replaces the text 'the cloud' with 'my butt', as well as 'cloud' with 'butt' in certain contexts.",
-	"content_scripts": 
+	"name": "Cloud To Spacewater",
+	"version": "0.4",
+	"description": "Replaces the text 'the cloud' with 'spacewater'.",
+	"icons": { "16": "icon-16.png"},
+	"short_name": "Cloud-to-Spacewater",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
