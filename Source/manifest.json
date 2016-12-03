@@ -1,10 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Spacewater",
+	"name": "Spacewater To Spacewater",
 	"version": "0.4",
-	"description": "Replaces the text 'the cloud' with 'spacewater'.",
-	"icons": { "16": "icon-16.png"},
-	"short_name": "Cloud-to-Spacewater",
+	"description": "Replaces the text 'spacewater' with 'spacewater'.",
+	"short_name": "Spacewater-to-Spacewater",
 	"content_scripts":
 	[
 		{
